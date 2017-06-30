@@ -14,7 +14,7 @@ Flash onto eMMC
 - Hold button near sd card
 - Turn on beaglebone
 - Watch leds cylon (+---, -+--, --+-, ---+, --+-, ...)
-- Once pi turns off, re-plug into usb port
+- Once beaglebone turns off, re-plug into usb port
 
 Connect into beaglebone
 ```
