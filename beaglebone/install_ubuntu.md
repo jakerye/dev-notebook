@@ -1,6 +1,9 @@
 ## Ubuntu 16.04
-Download ubuntu 16.04 image for beaglebone, copy onto micro-sd card, insert into beaglebone
+Download ubuntu 16.04 image for beaglebone
 - https://rcn-ee.com/rootfs/2017-06-12/flasher/BBB-eMMC-flasher-ubuntu-16.04.2-console-armhf-2017-06-12-2gb.img.xz
+
+Flash image onto sd card
+- [Pi Baker Download Link](https://www.atlas-scientific.com/_files/software/ApplePi-Baker.zip)
 
 Flash onto eMMC
 - Turn off beaglebone
