@@ -1,6 +1,6 @@
 ## Ubuntu 16.04
 Download ubuntu 16.04 image for beaglebone and flash onto micro-sd card
-- https://rcn-ee.com/rootfs/2017-04-07/elinux/ubuntu-16.04.2-console-armhf-2017-04-07.tar.xz
+- https://rcn-ee.com/rootfs/2017-06-12/elinux/ubuntu-16.04.2-console-armhf-2017-06-12.tar.xz
 
 Flash onto eMMC
 - Turn off beaglebone
