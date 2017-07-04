@@ -1,5 +1,16 @@
 # Heroku Postgres Notes
 
+## Summary
+Within a heroku app, run
+```
+heroku addons:create heroku-postgresql:hobby-dev --as HEROKU_POSTGRES_PRODUCTION
+```
+and you will get the lowest tier database the `heroku config var` of:
+```
+HEROKU_POSTGRES_PRODUCTION_URL
+```
+
+## More Details
 Here is a good entry point
 - https://devcenter.heroku.com/articles/heroku-postgresql#provisioning-the-add-on
 
