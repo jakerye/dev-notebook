@@ -15,6 +15,7 @@ brew install fish
 sudo add-apt-repository ppa:fish-shell/nightly-master
 sudo apt-get update
 sudo apt-get install fish
+chsh -s /usr/bin/fish
 ```
 
 ## Sources
