@@ -2,4 +2,4 @@
 Useful notes when playing on the command line.
 
 ## Plugins
-- [fish](https://fishshell.com/)
+- [fish](fish.md): make cmd line interactive w/colors and simple autocompletion
