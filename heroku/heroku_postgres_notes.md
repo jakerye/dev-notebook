@@ -13,6 +13,7 @@ HEROKU_POSTGRES_PRODUCTION_URL
 ## More Details
 Here is a good entry point
 - https://devcenter.heroku.com/articles/heroku-postgresql#provisioning-the-add-on
+- http://andyfiedler.com/2016/10/connecting-to-heroku-postgres-in-python
 
 Export database url to environment
 ```
