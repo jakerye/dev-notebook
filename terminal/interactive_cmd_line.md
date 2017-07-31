@@ -1,4 +1,7 @@
-# Fish Plugin
+# Interactive Command Line
+
+## Fish
+"fish is a smart and user-friendly command line shell for macOS, Linux, and the rest of the family" - https://fishshell.com/
 
 ## Usage
 ```
