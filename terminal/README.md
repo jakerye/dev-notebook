@@ -1,5 +1,2 @@
 # Terminal Notes
-Useful notes when playing on the command line.
-
-## Plugins
-- [fish](fish.md): make cmd line interactive w/colors and simple autocompletion
+Useful notes when playing on the command line. See file names for topic descriptors in repo.
