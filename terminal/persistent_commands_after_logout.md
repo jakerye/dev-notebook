@@ -1,4 +1,6 @@
-# nohup
+# Persistent commands after logoout
+
+## Nohup
 "When using the command shell, prefixing a command with nohup prevents the command from being aborted if you log out or exit the shell." - https://www.computerhope.com/unix/unohup.htm
 
 ## Example usage
