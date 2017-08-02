@@ -6,22 +6,7 @@ All notes below cribbed from Rob's notes.
 ```
 sudo apt-get install -y screen
 ```
-## Commands
-View screen session IDS
-```
-screen -ls to see the screen session IDs
-```
-
-Reattach to a session
-```
-screen -r <name>
-```
-
-Detach an existing session and reattach to it
-```
-screen -D -R <name> 
-```
-
+## Major Commands
 Start a new named session (with the same title)
 ```
 screen -S <name> -t <name> 
@@ -32,9 +17,25 @@ Detach a session you are in
 Ctrl+a then d
 ```
 
+Reattach to a session
+```
+screen -r <name>
+```
+
 Kill a session
 ```
 Ctrl+a then k
+```
+
+## Minor Commands
+View screen session IDS
+```
+screen -ls to see the screen session IDs
+```
+
+Detach an existing session and reattach to it
+```
+screen -D -R <name> 
 ```
 
 View session title
