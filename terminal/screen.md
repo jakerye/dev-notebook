@@ -1,6 +1,5 @@
 # screen
-"I prefer to use the "screen" command [to nohup].  It is immune to shell issues and is much more stable." - Rob from ML
-All notes below cribbed from Rob's notes.
+"I prefer to use the "screen" command [to nohup].  It is immune to shell issues and is much more stable." - Rob from ML. FYI: All notes below cribbed from Rob's notes.
 
 ## Install
 ```
